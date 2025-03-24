@@ -66,10 +66,10 @@ Make sure you have the following installed:
 ---
 
 ## Screenshots
-![Home Page](webiste1.png)
-![Room Page](website4.png)
-![User Profile](website3.png)
-![Login Page](website2.png)
-![Room Creation](website5.png)
+[Home Page](webiste1.png)
+[Room Page](website4.png)
+[User Profile](website3.png)
+[Login Page](website2.png)
+[Room Creation](website5.png)
 
 ```markdown
